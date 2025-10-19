@@ -1,0 +1,3 @@
+C:/Cpp/BrainFuck/build/CMakeFiles/bf_interpreter.dir
+C:/Cpp/BrainFuck/build/CMakeFiles/ALL_BUILD.dir
+C:/Cpp/BrainFuck/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Cpp/BrainFuck/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
